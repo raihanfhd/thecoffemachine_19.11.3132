@@ -1,0 +1,5 @@
+D:\Pemrograman C#\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\TheCoffeeMachine.exe
+D:\Pemrograman C#\TheCoffeeMachine\TheCoffeeMachine\bin\Debug\TheCoffeeMachine.pdb
+D:\Pemrograman C#\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\TheCoffeeMachine.csprojAssemblyReference.cache
+D:\Pemrograman C#\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\TheCoffeeMachine.exe
+D:\Pemrograman C#\TheCoffeeMachine\TheCoffeeMachine\obj\Debug\TheCoffeeMachine.pdb
